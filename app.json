@@ -10,9 +10,13 @@
         "PROTOCOL": {
             "description": "xray protocol, vmess or vless",
             "value": "vmess"
-        }
+        },
+        "PORT": {
+            "description": "port",
+            "value": "443"
+        }  
     },
     "website": "https://starts.sh",
-    "repository": "https://github.com/yeahwu/xray-heroku",
+    "repository": "https://github.com/ikuvamzz/xray-heroku-1",
     "stack": "container"
 }
