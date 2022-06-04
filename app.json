@@ -9,7 +9,7 @@
         },
         "PROTOCOL": {
             "description": "xray protocol, vmess or vless",
-            "value": "vmess"
+            "value": "vless"
         },
         "PORT": {
             "description": "port",
